@@ -9,7 +9,7 @@ The issue happens when I try to use [lerna](https://github.com/lerna/lerna) to l
 root
     /packages
         /x-alpha (exports a string)
-        /x-charlie (imports x-alpha successfully)
+        /x-beta (imports x-alpha successfully)
         /x-stencil (from stencil-cli fails to import x-alpha)
 ```
 
