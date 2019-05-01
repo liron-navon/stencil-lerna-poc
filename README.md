@@ -5,6 +5,8 @@ https://github.com/rollup/rollup/issues/447).
 
 The issue happens when I try to use [lerna](https://github.com/lerna/lerna) to link between packages:
 
+I used `npm init stencil` and picked the `components` starter template for the stencil part.
+
 ```
 root
     /packages
