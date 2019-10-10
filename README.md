@@ -1,4 +1,4 @@
-The bug can be found here: [https://github.com/ionic-team/stencil/issues/1491](https://github.com/ionic-team/stencil/issues/1491)
+The bug report and possible fixes can be found here: [https://github.com/ionic-team/stencil/issues/1491](https://github.com/ionic-team/stencil/issues/1491)
 
 # stencil-lerna-poc
 
