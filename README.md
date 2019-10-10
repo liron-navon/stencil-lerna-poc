@@ -1,3 +1,5 @@
+The bug can be found here: [https://github.com/ionic-team/stencil/issues/1491](https://github.com/ionic-team/stencil/issues/1491)
+
 # stencil-lerna-poc
 
 Stencil does not work with symlinks, I suspect that the problem is with rollup, it might require extra configurations based on this issue [#447](
